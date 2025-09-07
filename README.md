@@ -1,5 +1,5 @@
 # qaguru_hm6
-6. Python Basics. Part II. Language Constructions and Functions. Sergey Khomutinin
+Lesson 6 . Python Basics. Part II. Language Constructions and Functions. Sergey Khomutinin
 
    
 1. Conditional Constructions
